@@ -1,0 +1,18 @@
+Temat projektu: Prosta aplikacja do zarządzania systemem zgłoszeń
+
+1) Stworzenie repozytorium projektu;
+2) Przygotowanie środowiska pracy - Intellij Idea i wybór odpowiednich technologii - Java, Docker, MySQL, SpringBoot Rest Api
+3) Stworzenie szkieletu projektu - Spring Boot, Spring Initializer;
+4) Przygotowanie kontenera MySQL - Docker;
+5) Stworzenie bazy danych, utworzenie tabel - Docker;
+6) Utworzenie funkcjonalności odpowiedzialnych za komunikację z bazą danych po stronie aplikacji Java;
+7) Utworzenie systemu logowania do aplikacji;
+8) Utworzenie i implementacja mikroserwisu zgłoszeń;
+9) Utworzenie i implementacja mikroserwisu zarządzania użytkownikami;
+10) Utworzenie funkcjonalności odpowiedzialnej za przypisywanie użytkownika do zgłoszenia;
+11) Przygotowanie zapytań do aplikacji (postman);
+12) Podpięcie flyway do aplikacji;
+13) Utworzenie prostego UI aplikacji;
+14) Zbudowawnie wersji produkcyjnej;
+15) Stworzenie opisu aplikacji;
+16) Stworzenie prostych testów jednostkowych aplikacji;
